@@ -29,7 +29,8 @@ h3
 
 }
 
-?? :hover
-{ cursor: url(images/wine.png), auto;
-
+.leo :hover
+{
+  cursor: url(images/wine.png), auto;
+/* cursor:crosshair; */
 }
