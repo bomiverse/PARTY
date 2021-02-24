@@ -1,0 +1,35 @@
+
+
+body
+{ background-image: url(images/confetti.png);
+  background-size: contain;
+  background-color: #f0d1ff;
+  height: 100vh;
+  cursor: url(images/party.png), auto;
+}
+
+h1
+{ color: white;
+  font-size: 35px;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding: 150px;
+  margin: 0px;
+  background-image: url(images/balloons.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+h3
+{ color: white;
+  font-size: 13px;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+
+}
+
+?? :hover
+{ cursor: url(images/wine.png), auto;
+
+}

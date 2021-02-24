@@ -1,0 +1,28 @@
+h1 { color: white;
+    font-size: 35px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    padding: 150px;
+    margin: 0px;
+    background-image: url(images/balloons.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
+
+body
+  { background-image: url(images/confetti.png);
+    background-size: contain;
+    background-color: #ffffa6;
+    height: 100vh;
+    cursor: url(images/needle.png), auto;
+  }
+
+
+#balloon {
+    position: absolute;
+    top: 270px;
+    left: 300px;
+    transition-property: all;
+    transition-duration: 1s;
+}
